@@ -1,6 +1,3 @@
-# safe-shuffle: Perform unbiased shuffles in Rust
+# shuffle-rs: shuffles in Rust
 
 ## Usage
-
-## Caveats
-
